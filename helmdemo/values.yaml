@@ -12,7 +12,7 @@ image:
 
 imagePullSecrets: []
 nameOverride: "Awesome_nginx"
-fullnameOverride: "Awesome nginx powered by helmchart"
+fullnameOverride: "Awesome_nginx_powered_by_helmchart"
 
 serviceAccount:
   # Specifies whether a service account should be created
